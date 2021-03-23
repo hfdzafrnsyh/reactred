@@ -2,7 +2,10 @@ const initState = {
     todos:[
         { id : '1' , title : "sunt aut facere repellat provident occaecati excepturi optio reprehenderit" , body : "cusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"},
         { id : '2' , title : "qui est esse" , body : "cusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"},
-        { id : '3' , title : "sunt facere lattepre" , body : "atem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut"}
+        { id : '3' , title : "sunt facere lattepre" , body : "atem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut"},
+        { id : '4' , title : "lattepre" , body : "atem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut"}
+        , { id : '5' , title : "suntface" , body : "atem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut"}
+        , { id : '6' , title : "suntfacerpre" , body : "atem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut"}
     ]
 }
 
